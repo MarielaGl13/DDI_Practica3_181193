@@ -14,8 +14,8 @@
 
 &nbsp;
 &nbsp;
-|  Característica |  Información |
+|  Características |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 3 |
-| Descripción  |  Creación de la primera aplicación de wearables|
-|  Fecha de Carga | 17/05/23  |
+| **Nombre**  |  **Practica 3** *Creación de la primera aplicación de wearables*|
+| **Descripción**  | Creación de primer mensaje de hola mundo para wearables cuadrados y redondos En esta práctica realizada en Android Studio, se desarrolló una aplicación para un dispositivo wearable que imprime un mensaje de "Hola, alumno" en dispositivos redondos y cuadrados. A continuación, se describe el proceso seguido para llevar a cabo esta tarea|
+|  **Fecha de Carga** | 17/05/23  |
